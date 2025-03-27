@@ -21,5 +21,8 @@ return {
         },
       },
     },
+    source_selector = {
+      statusline = true,
+    },
   },
 }
